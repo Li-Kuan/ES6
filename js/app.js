@@ -1,5 +1,8 @@
-function creatHtml(sClass,sId) {
+'use strict';
+
+function creatHtml(sClass, sId) {
 	// body...
-	$(sClass).width('100px')
+	var arr = [];
+	var obj = {};
 }
-console.log('sss')
+console.log('sss');
